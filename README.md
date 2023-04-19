@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hamza
 - 👀 I’m interested in Coding and PC gaming
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me https://linktr.ee/azrael_7
 
 <!---
